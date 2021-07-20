@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yeabsirakibret
 - 👀 I’m interested in Computer Science, Software Engineering and Cyber Security 
 - 🌱 I’m currently learning My BSC in Computer Science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything , mostly backend stuff
 - 📫 How to reach me: yeabsira.kibretk@gmail.com
 
 <!---
